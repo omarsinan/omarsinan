@@ -12,7 +12,7 @@
   <a href="https://omarsinan.com/feed.xml"><img src="./assets/rss-dark-comp.svg" height=25 /></a>
 </p>
 
-I am a senior CS student at Carnegie Mellon University. I enjoy developing websites and creating apps. Gatsby.js, React and GraphQL are a few technologies I am currently experimenting with. You can check out my blog posts <a href="https://dev.to/oohsinan">here</a>, I write about web and app development in general. I'm mostly active on Twitter, so reach me at <a href="https://twitter.com/oohsinan/">@oohsinan</a> 😄
+I am a Computer Science graduate from Carnegie Mellon University. I enjoy developing websites and creating apps. Currently, I am experimenting with Go and SwiftUI. You can check out my blog posts <a href="https://dev.to/oohsinan">here</a>, I write about web and app development in general. I'm mostly active on Twitter, so reach me at <a href="https://twitter.com/oohsinan/">@oohsinan</a> 😄
 
 <!--
 **omarsinan/omarsinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
